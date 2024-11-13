@@ -1,0 +1,8 @@
+Lista Encadeada / Lista ligada / linked List
+
+A lista encadeada possui além do seu valor, um ponteiro apontando 
+para o próximo elemento.
+
+-----    -----    -----
+|1| | -> |4| | -> |3| | -> NULL
+-----    -----    -----
